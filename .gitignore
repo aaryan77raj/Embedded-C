@@ -1,0 +1,7 @@
+# Ignore GCC output files
+a.out
+line
+
+# Ignore all executable files (optional but powerful)
+*.out
+*.exe

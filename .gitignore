@@ -1,6 +1,7 @@
 # Ignore GCC output files
 a.out
 line
+string-to-number
 
 # Ignore all executable files (optional but powerful)
 *.out

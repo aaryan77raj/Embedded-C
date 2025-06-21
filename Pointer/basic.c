@@ -8,8 +8,8 @@ int main() {
     printf("%p\n", p);
     printf("%p\n", &a);
     printf("%p\n", &p);
-    printf("%d\n", *p); // dereferencing
-    *p = 8;
+    printf("%d\n", *p); 
+    *p = 8; // dereferencing
     printf("%d\n", *p);
     printf("%d\n", a);
 }

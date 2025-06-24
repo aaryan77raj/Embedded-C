@@ -9,7 +9,7 @@ int SquareOfSum(int x, int y) {
     int z = Square(x + y);
     return z;
 }
-int main()
+int main()              // stack-frame
 {
     int a = 4, b = 8;
     total = SquareOfSum(a, b);
